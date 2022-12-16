@@ -206,7 +206,7 @@
         </module>
         <module name="TrailingComment"/>
         <module name="UncommentedMain">
-            <property name="excludedClasses" value="(JmmVm)|(JavammIDEApplication)"/>
+            <property name="excludedClasses" value="(JLVm)|(JavaLightIDEApplication)"/>
         </module>
         <module name="UpperEll"/>
 

@@ -11,7 +11,7 @@
 To clone git repository run:
 
 ~~~~
-git clone --progress -v "https://github.com/devonline-academy/javamm" "javamm"
+git clone --progress -v "https://github.com/zlinuxfan/JavaLight" "JavaLight"
 ~~~~
 -----------------------
 
